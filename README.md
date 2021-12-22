@@ -12,8 +12,7 @@
 # **ZERO TWO BOT: A Anime-Featured Bot**
 
 <a href="https://github.com/pratyush4932/followers"><img title="Followers" src="https://img.shields.io/github/followers/pratyush4932?color=red&style=flat-square"></a>
-<a href="https://github.com/pratyush4932/zero/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/pratyush4932/zero?color=blue&style=flat-square"></a>
-<a href="https://github.com/HYPER-MOD/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HYPER-MOD/bug-bot?color=red&style=flat-square"></a>
+<a href="https://github.com/pratyush4932/zero/network/members"><img title="Forks" src="https://img.shields.io/github/forks/pratyush4932/zero?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HYPER-MOD/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
