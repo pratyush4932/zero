@@ -13,7 +13,7 @@
 </div><br/>
 <br/>
 
-## ✨ Highlights
+##  Highlights
 
 -   Fully Modular Design
 -   Object Oriented
@@ -40,10 +40,10 @@
     npm install
     npm start
     
-# To keep the bot on auto-restart
+#### To keep the bot on auto-restart
 
-npm i forever -g
-forever main.js
+  npm i forever -g
+  forever main.js
 
 ## 🍥 Features of the Repo
 
