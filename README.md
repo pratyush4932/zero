@@ -31,13 +31,14 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi)
 </div><br/>
-<br/>    
+<br/> 
+
 ## 🧰 INSTALLATION GUIDE
 
 # For WINDOWS
     
-    *npm install*
-    *npm start*
+    npm install
+    npm start
 
 ## 🍥 Features of the Repo
 
