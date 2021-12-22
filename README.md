@@ -1,11 +1,12 @@
-
+<div align="center"
 <img
-     <div align="center">
+     
         src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=%23AC230A&size=21&center=true&vCenter=true&width=412&height=66&lines=WELCOME;HI!!+I+AM+ZERO-BOTTO+"
             alt="Typing SVG"
         />
     </a>
 </p>
+>
 <div align="center">
 <a href="https://ibb.co/wQ4GK21"><img src="https://steamuserimages-a.akamaihd.net/ugc/1660102063051383329/3117560C5753F3C63EA5B6E9564B1BFF27108162/?imw=450&impolicy=Letterbox" alt="whatsapp-botto-rin-init" border="0"></a>
 
