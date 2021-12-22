@@ -33,10 +33,11 @@
 </div><br/>
 <br/>    
 ## 🧰 INSTALLATION GUIDE
-    #For WINDOWS
+
+# For WINDOWS
     
-    *npm install
-    *npm start
+    *npm install*
+    *npm start*
 
 ## 🍥 Features of the Repo
 
