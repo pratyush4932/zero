@@ -7,11 +7,12 @@
     </a>
 </p>
   
-<a href="https://ibb.co/wQ4GK21"><img src="https://steamuserimages-a.akamaihd.net/ugc/1660102063051383329/3117560C5753F3C63EA5B6E9564B1BFF27108162/?imw=450&impolicy=Letterbox" alt="whatsapp-botto-rin-init" border="0"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://steamuserimages-a.akamaihd.net/ugc/1660102063051383329/3117560C5753F3C63EA5B6E9564B1BFF27108162/?imw=450&impolicy=Letterbox" alt="ZERO-TWO-BOT" border="0"></a>
 
 # **ZERO TWO BOT: A Anime-Featured Bot**
 
-###Deploy on Heroku
+##Deploy on Heroku
+<img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png">
 Button : If you are deploying normally
 
 
