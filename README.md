@@ -39,6 +39,11 @@
     
     npm install
     npm start
+    
+# To keep the bot on auto-restart
+
+npm i forever -g
+forever main.js
 
 ## 🍥 Features of the Repo
 
