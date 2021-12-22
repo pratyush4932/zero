@@ -35,7 +35,7 @@
 
 ## 🧰 INSTALLATION GUIDE
 
-# For WINDOWS
+## For WINDOWS
     
     npm install
     npm start
