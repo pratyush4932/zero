@@ -1,7 +1,13 @@
+<img
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 <div align="center">
 <a href="https://ibb.co/wQ4GK21"><img src="https://steamuserimages-a.akamaihd.net/ugc/1660102063051383329/3117560C5753F3C63EA5B6E9564B1BFF27108162/?imw=450&impolicy=Letterbox" alt="whatsapp-botto-rin-init" border="0"></a>
 
-# **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+# **ZERO TWO BOT: A Anime-Featured Bot**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
