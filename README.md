@@ -12,7 +12,8 @@
 # **ZERO TWO BOT: A Anime-Featured Bot**
 
 ##Deploy on Heroku
-<img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png">
+<img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png"
+ border="10">
 Button : If you are deploying normally
 
 
