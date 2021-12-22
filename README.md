@@ -1,5 +1,6 @@
+<div align="center">
 <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
+        src="https://readme-typing-svg.herokuapp.com?font=Oswald&color=%23AC230A&size=21&center=true&vCenter=true&width=412&height=66&lines=WELCOME;HI!!+I+AM+ZERO-BOTTO"
             alt="Typing SVG"
         />
     </a>
