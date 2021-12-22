@@ -10,17 +10,6 @@
 <a href="https://ibb.co/wQ4GK21"><img src="https://steamuserimages-a.akamaihd.net/ugc/1660102063051383329/3117560C5753F3C63EA5B6E9564B1BFF27108162/?imw=450&impolicy=Letterbox" alt="ZERO-TWO-BOT"></a>
 
 # **ZERO TWO BOT: A Anime-Featured Bot**
-
-</div><br/>
-
-## ⚒️ Deploy on Heroku
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=%23413764&size=21&center=true&vCenter=true&width=418&height=66&lines=CLICK+ON+THE;+BUTTON+TO+DEPLOY+ON+HEROKU"
-     ar href="https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi">
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi)
 </div><br/>
 <br/>
 
@@ -33,10 +22,16 @@
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
     WhatsApp Library Out There)
 
-## 💻 Deploy/Hosting Guide
+## ⚒️ Deploy on Heroku
 
--   Section Moved to
-    [RIN-Guides](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=%23413764&size=21&center=true&vCenter=true&width=418&height=66&lines=CLICK+ON+THE;+BUTTON+TO+DEPLOY+ON+HEROKU"
+     ar href="https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi">
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi)
+    
+## INSTALLATION GUIDE    
 
 ## 🍥 Features of the Repo
 
