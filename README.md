@@ -31,7 +31,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi)
     
-## INSTALLATION GUIDE    
+## 🧰 INSTALLATION GUIDE 
+    *
 
 ## 🍥 Features of the Repo
 
