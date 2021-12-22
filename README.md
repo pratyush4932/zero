@@ -12,8 +12,8 @@
 # **ZERO TWO BOT: A Anime-Featured Bot**
 
 </div><br/>
-<br/>
-# Deploy on Heroku
+
+## Deploy on Heroku
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&color=%23413764&size=21&center=true&vCenter=true&width=418&height=66&lines=CLICK+ON+THE;+BUTTON+TO+DEPLOY+ON+HEROKU"
      ar href="https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi">
