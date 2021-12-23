@@ -7,9 +7,9 @@
     </a>
 </p>
   
-<a href="https://github.com/pratyush4932/zero/blob/main/README.md"><img src="https://steamuserimages-a.akamaihd.net/ugc/1660102063051383329/3117560C5753F3C63EA5B6E9564B1BFF27108162/?imw=450&impolicy=Letterbox" alt="ZERO-TWO-BOT"></a>
+<a href="https://ibb.co/wQ4GK21"><img src="https://steamuserimages-a.akamaihd.net/ugc/1660102063051383329/3117560C5753F3C63EA5B6E9564B1BFF27108162/?imw=450&impolicy=Letterbox" alt="ZERO-TWO-BOT"></a>
 
-# **ZERO TWO BOT: An Anime-Featured Bot**
+# **ZERO TWO BOT: A Anime-Featured Bot**
 
 
 # [![Baileys](https://img.shields.io/badge/Baileys-%F0%9F%A4%96-orange)]() [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)]()
@@ -20,7 +20,7 @@
 
 🎯   Written in [JavaScript](https://www.javascript.com/)</a>
 
-🎯   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight</a>
+[🎯]   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight</a>
     WhatsApp Library)
 
 🎯  Simple and Easy codes
@@ -49,7 +49,7 @@
  ### To keep the bot on auto-restart
 
      npm i forever -g
-     forever main.js
+     forever msghandler.js
 
 
 
