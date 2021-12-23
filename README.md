@@ -23,6 +23,8 @@
 🎯   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight</a>
     WhatsApp Library)
 
+🎯  Simple and Easy codes
+
 ## ⚒️ Deploy on Heroku
 
 <div align="center">
