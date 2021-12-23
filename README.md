@@ -42,12 +42,12 @@
 
 ## For WINDOWS
     
-    npm install
-    npm start
+   npm install
+   npm start
  ### To keep the bot on auto-restart
 
-  npm i forever -g
-  forever main.js
+     npm i forever -g
+     forever main.js
 
 ## 🍥 Features of the Repo
 
