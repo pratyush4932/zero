@@ -18,12 +18,9 @@
 
 ##  Highlights
 
--   Fully Modular Design
--   Object Oriented
--   Written in [JavaScript](https://www.typescriptlang.org/)
--   Self-Restoring Auth
--   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
-    WhatsApp Library Out There)
+🎯   Written in [JavaScript](https://www.javascript.com/)
+🎯   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight
+    WhatsApp Library)
 
 ## ⚒️ Deploy on Heroku
 
@@ -40,8 +37,8 @@
 
 ## For WINDOWS
     
-   npm install
-   npm start
+     npm install
+     npm start
  ### To keep the bot on auto-restart
 
      npm i forever -g
