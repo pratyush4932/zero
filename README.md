@@ -18,12 +18,12 @@
 
 ##  Highlights
 
-🎯   Written in [JavaScript](https://www.javascript.com/)</a>
+🎯   ***Written in [JavaScript](https://www.javascript.com/)</a>
 
-[🎯]   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight</a>
-    WhatsApp Library)
+🎯   ***Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight</a>
+    WhatsApp Library)***
 
-🎯  Simple and Easy codes
+🎯  ***Simple and Easy codes
 ## ⚒️ Deploy on Heroku
 
 <div align="center">
@@ -38,6 +38,7 @@
 ## Requirements
 * [Node.js](https://nodejs.org/en/)
 * [IMAGEMAGICK](https://imagemagick.org/script/download.php)
+* [LIBWEBP](https://developers.google.com/speed/webp/download)
 * Any text editor
 
 ## 🧰 INSTALLATION GUIDE
