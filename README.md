@@ -12,8 +12,9 @@
 # **ZERO TWO BOT: A Anime-Featured Bot**
 
 
-<a href="https://github.com/HYPER-MOD/Queen-Alexa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-
+<img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+ [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+ [![JavaScript](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
 
 </div><br/>
 <br/>
