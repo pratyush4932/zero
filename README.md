@@ -16,7 +16,6 @@
 
  ## [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![JavaScript](https://img.shields.io/badge/JavaScript-js-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white)]() [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918509511195)
 </div><br/>
-<br/>
 ##  Highlights
 
 -   Fully Modular Design
