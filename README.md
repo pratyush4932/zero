@@ -24,7 +24,6 @@
     WhatsApp Library)
 
 🎯  Simple and Easy codes
-
 ## ⚒️ Deploy on Heroku
 
 <div align="center">
@@ -34,7 +33,12 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pratyush4932/izumi)
 </div><br/>
-<br/> 
+<br/>
+
+## Requirements
+* [Node.js](https://nodejs.org/en/)
+* [IMAGEMAGICK](https://imagemagick.org/script/download.php)
+* Any text editor
 
 ## 🧰 INSTALLATION GUIDE
 
