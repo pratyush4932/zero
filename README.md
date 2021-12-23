@@ -18,8 +18,8 @@
 
 ##  Highlights
 
-🎯   Written in [JavaScript](https://www.javascript.com/)
-🎯   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight
+🎯   Written in [JavaScript](https://www.javascript.com/)</a>
+🎯   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight</a>
     WhatsApp Library)
 
 ## ⚒️ Deploy on Heroku
