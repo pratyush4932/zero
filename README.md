@@ -19,6 +19,7 @@
 ##  Highlights
 
 🎯   Written in [JavaScript](https://www.javascript.com/)</a>
+
 🎯   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best Light-Weight</a>
     WhatsApp Library)
 
